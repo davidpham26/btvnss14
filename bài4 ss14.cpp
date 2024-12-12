@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    char chuoi[] = "Xin chao, the gioi!";
+    char chuoi[] = "Xin chao, PTIT toi la tan sinh vien!";
     char ky_tu;
     int dem = 0;
 
