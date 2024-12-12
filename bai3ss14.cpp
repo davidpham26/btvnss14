@@ -19,7 +19,7 @@ int dao_nguoc_chuoi(char *chuoi) {
 }
 
 int main() {
-    char chuoi[] = "Xin chao, the gioi!";
+    char chuoi[] = "Xin chao, toi la Pham Minh Phong!";
     dao_nguoc_chuoi(chuoi);
     printf("Chuoi dao nguoc la: %s\n", chuoi);
     return 0;
